@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prutha1412
-- 👀 I’m interested in cookong
+- 👀 I’m interested in cookoig
 - 🌱 I’m currently learning python
 
 
