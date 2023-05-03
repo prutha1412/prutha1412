@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @prutha1412
-- 👀 I’m interested in cookoig
+- 👋 Hi, I’m @prutha
 - 🌱 I’m currently learning python
+- ✨ working with Flutter and Android
+- ✨ love to make UX/UI
 
 
 <!---
